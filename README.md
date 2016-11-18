@@ -1,4 +1,4 @@
-# _Cupcake Shop_
+# Cupcake Shop
 
 #### By _**Ethan Law**_
 
