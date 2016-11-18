@@ -1,6 +1,6 @@
-# _cupcake-shop_
+# _Cupcake Shop_
 
-### By _**Ethan Law**_
+#### By _**Ethan Law**_
 
 ### Description
 
